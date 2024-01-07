@@ -1,0 +1,8 @@
+//
+// Created by Admin on 06.01.2024.
+//
+
+#ifndef CARPROJECT_SERIALCOMMDRV_H
+#define CARPROJECT_SERIALCOMMDRV_H
+
+#endif //CARPROJECT_SERIALCOMMDRV_H
